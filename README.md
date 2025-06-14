@@ -9,11 +9,13 @@
 1. **Sierpinski Triangle Generator** - How randomness can create perfect fractals
 2. **Conway's Game of Life** - How simple rules can produce complex emergent behavior
 
+
 Both simulations beautifully illustrate the concept of "order in chaos" - the idea that underlying mathematical structures and patterns can emerge from seemingly random or simple processes.
 
 ## 🔺 Sierpinski Triangle Generator
 
 The Sierpinski Triangle is a fractal that demonstrates how randomness can produce perfectly ordered mathematical structures. Starting with a triangle and a random point, the algorithm repeatedly moves halfway toward a randomly chosen vertex, plotting each point. Amazingly, this completely random process creates the famous Sierpinski triangle fractal!
+![triangle](https://github.com/user-attachments/assets/b9a75820-ccb9-4fc9-9e42-1e013a16cb97)
 
 #### Python/Tkinter Version (`SierpinskiTriangle/Sierpinski triangle.py`)
 - **Pygame Application**
