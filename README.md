@@ -63,7 +63,7 @@ Simply open `sierpinski_triangle.html` in any modern web browser.
 
 Conway's Game of Life is a cellular automaton that demonstrates how complex behaviors can emerge from simple rules. Despite having only four basic rules, the Game of Life can produce incredibly complex patterns, oscillators, gliders, and even universal computation!
 
-### Features (`paste-3.txt`)
+### Features (`GameOfLife\GameOfLife.py`)
 
 **Interactive Controls:**
 - Start/Stop/Step simulation controls
